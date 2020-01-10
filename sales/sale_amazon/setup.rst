@@ -14,7 +14,7 @@ Developer Central (where the Developer Registration and Assessment form was loca
 
 Once the account is registered, the marketplaces available to this account are synchronized and
 listed under the **Marketplaces** tab. If you wish, you can remove some items from the list of
-synchronized marketplaces to disable their synchronization.
+synchronized marketplaces to disable their synchronization.Blablabla
 
 Match database products in Amazon
 =================================
