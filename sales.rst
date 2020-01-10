@@ -13,3 +13,4 @@ Sales
    sales/sale_amazon
    sales/sale_ebay
    sales/advanced
+   sales/Facebook
